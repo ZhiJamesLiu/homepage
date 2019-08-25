@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Zhi (James) Liu"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Senior undergraduate student in Dept. of Industrial Engineering, Tsinghua University."
+  avatar           : "/assets/id.jpg"
+  bio              : "Senior undergraduate student in Tsinghua University."
   location         : "Beijing, China"
   email            : "liuzhi16@mails.tsinghua.edu.cn"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:liuzhi16@mails.tsinghua.edu.cn
+   # - label: "Email"
+   #   icon: "fas fa-fw fa-envelope-square"
+   #   url: mailto:liuzhi16@mails.tsinghua.edu.cn
    # - label: "Website"
    #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
